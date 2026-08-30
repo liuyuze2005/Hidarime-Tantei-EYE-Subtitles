@@ -1,4 +1,4 @@
-﻿[Script Info]
+[Script Info]
 ; Chinese extracted from Russian-Chinese bilingual subtitles
 ; Conservatively proofread and calibrated to the Bilibili video timeline
 Title: 左眼侦探EYE EP05
@@ -17,432 +17,432 @@ Style: NoteTop,微软雅黑,48,&H00FFFFFF,&H00FFFFFF,&H00000000,&HFF000000,0,0,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:07.42,0:00:12.39,BottomCenter,,0,0,0,,爱之助的左眼又开始浮现神秘画面。
-Dialogue: 0,0:00:12.39,0:00:17.48,BottomCenter,,0,0,0,,那是哥哥以前看过的景象。
-Dialogue: 0,0:00:17.48,0:00:22.39,BottomCenter,,0,0,0,,梦人已经策划了两起犯罪。
-Dialogue: 0,0:00:22.39,0:00:26.27,BottomCenter,,0,0,0,,借助神秘的左眼，爱之助试图与哥哥对抗。
+Dialogue: 0,0:00:07.42,0:00:12.39,BottomCenter,,0,0,0,,爱之助的左眼又开始浮现神秘画面
+Dialogue: 0,0:00:12.39,0:00:17.48,BottomCenter,,0,0,0,,那是哥哥以前看过的景象
+Dialogue: 0,0:00:17.48,0:00:22.39,BottomCenter,,0,0,0,,梦人已经策划了两起犯罪
+Dialogue: 0,0:00:22.39,0:00:26.27,BottomCenter,,0,0,0,,借助神秘的左眼 爱之助试图与哥哥对抗
 Dialogue: 0,0:00:28.50,0:00:30.51,BottomCenter,,0,0,0,,左眼侦探EYE
 Dialogue: 0,0:00:33.99,0:00:37.53,BottomCenter,,0,0,0,,第5集
 Dialogue: 0,0:00:39.48,0:00:40.99,BottomCenter,,0,0,0,,报告！
 Dialogue: 0,0:00:40.99,0:00:41.86,BottomCenter,,0,0,0,,报告！
 Dialogue: 0,0:00:41.86,0:00:43.83,BottomCenter,,0,0,0,,请开开门！
 Dialogue: 0,0:00:43.83,0:00:45.49,BottomCenter,,0,0,0,,拜托了！
-Dialogue: 0,0:00:53.78,0:00:57.50,BottomCenter,,0,0,0,,老师，这都是因为你没还钱啊。
+Dialogue: 0,0:00:53.78,0:00:57.50,BottomCenter,,0,0,0,,老师 这都是因为你没还钱啊
 Dialogue: 0,0:01:34.00,0:01:36.63,BottomCenter,,0,0,0,,我当时在做什么？
 Dialogue: 0,0:01:44.76,0:01:47.16,BottomCenter,,0,0,0,,我这是在哪儿？
 Dialogue: 0,0:02:05.21,0:02:08.77,BottomCenter,,0,0,0,,这一连串的绑架案……
 Dialogue: 0,0:02:09.14,0:02:11.24,BottomCenter,,0,0,0,,婚礼杀人案……
 Dialogue: 0,0:02:13.50,0:02:15.52,BottomCenter,,0,0,0,,演唱会骚乱……
 Dialogue: 0,0:02:18.58,0:02:20.72,BottomCenter,,0,0,0,,看来每一起案件
-Dialogue: 0,0:02:20.72,0:02:25.28,BottomCenter,,0,0,0,,都在为下一起案件做铺垫。
+Dialogue: 0,0:02:20.72,0:02:25.28,BottomCenter,,0,0,0,,都在为下一起案件做铺垫
 Dialogue: 0,0:02:26.75,0:02:29.63,BottomCenter,,0,0,0,,哥哥的真正目的到底是什么？
 Dialogue: 0,0:02:29.63,0:02:32.51,BottomCenter,,0,0,0,,你们学校那个保健老师叫什么来着？
 Dialogue: 0,0:02:32.51,0:02:35.67,BottomCenter,,0,0,0,,好像是……狭山瞳？
 Dialogue: 0,0:02:36.35,0:02:39.19,BottomCenter,,0,0,0,,他怎么会知道老师的名字？
 Dialogue: 0,0:02:44.19,0:02:45.16,BottomCenter,,0,0,0,,老师……
-Dialogue: 0,0:02:45.16,0:02:46.91,BottomCenter,,0,0,0,,早上好，爱之助。
+Dialogue: 0,0:02:45.16,0:02:46.91,BottomCenter,,0,0,0,,早上好 爱之助
 Dialogue: 0,0:02:46.91,0:02:48.62,BottomCenter,,0,0,0,,怎么了吗？
-Dialogue: 0,0:02:48.62,0:02:51.97,BottomCenter,,0,0,0,,没，我只是想确认一下你有没有事。
+Dialogue: 0,0:02:48.62,0:02:51.97,BottomCenter,,0,0,0,,没 我只是想确认一下你有没有事
 Dialogue: 0,0:02:51.97,0:02:53.83,BottomCenter,,0,0,0,,什么？
-Dialogue: 0,0:03:00.78,0:03:05.53,BottomCenter,,0,0,0,,老师，你最近没遇到什么怪事吧？
+Dialogue: 0,0:03:00.78,0:03:05.53,BottomCenter,,0,0,0,,老师 你最近没遇到什么怪事吧？
 Dialogue: 0,0:03:05.53,0:03:07.24,BottomCenter,,0,0,0,,怪事？
-Dialogue: 0,0:03:08.44,0:03:08.95,BottomCenter,,0,0,0,,警察。
-Dialogue: 0,0:03:08.95,0:03:09.52,BottomCenter,,0,0,0,,别动。
+Dialogue: 0,0:03:08.44,0:03:08.95,BottomCenter,,0,0,0,,警察
+Dialogue: 0,0:03:08.95,0:03:09.52,BottomCenter,,0,0,0,,别动
 Dialogue: 0,0:03:09.96,0:03:10.70,BottomCenter,,0,0,0,,请问是狭山瞳女士吗？
 Dialogue: 0,0:03:10.70,0:03:11.40,BottomCenter,,0,0,0,,喂？
 Dialogue: 0,0:03:11.40,0:03:14.23,BottomCenter,,0,0,0,,你认识这个人吗？
-Dialogue: 0,0:03:14.23,0:03:20.02,BottomCenter,,0,0,0,,怎么了？那个……认识。
+Dialogue: 0,0:03:14.23,0:03:20.02,BottomCenter,,0,0,0,,怎么了？那个……认识
 Dialogue: 0,0:03:20.02,0:03:22.23,BottomCenter,,0,0,0,,发生什么事了？
-Dialogue: 0,0:03:22.23,0:03:25.77,BottomCenter,,0,0,0,,昨晚发现了他的尸体。
+Dialogue: 0,0:03:22.23,0:03:25.77,BottomCenter,,0,0,0,,昨晚发现了他的尸体
 Dialogue: 0,0:03:26.99,0:03:28.08,BottomCenter,,0,0,0,,尸体？
-Dialogue: 0,0:03:28.08,0:03:31.33,BottomCenter,,0,0,0,,遗体被埋在新中川附近。
+Dialogue: 0,0:03:28.08,0:03:31.33,BottomCenter,,0,0,0,,遗体被埋在新中川附近
 Dialogue: 0,0:03:47.03,0:03:49.69,BottomCenter,,0,0,0,,喂！叫刑警过来！
-Dialogue: 0,0:03:50.44,0:03:52.70,BottomCenter,,0,0,0,,遗体已经送去解剖室了。
-Dialogue: 0,0:03:58.13,0:03:59.88,BottomCenter,,0,0,0,,狭山瞳女士。
-Dialogue: 0,0:03:59.88,0:04:04.06,BottomCenter,,0,0,0,,你涉嫌杀人，被依法逮捕。\N请跟我们回署里一趟。
-Dialogue: 0,0:04:04.06,0:04:07.41,BottomCenter,,0,0,0,,- 怎么回事？\N- 向坂。
-Dialogue: 0,0:04:07.41,0:04:09.78,BottomCenter,,0,0,0,,这是证据。
+Dialogue: 0,0:03:50.44,0:03:52.70,BottomCenter,,0,0,0,,遗体已经送去解剖室了
+Dialogue: 0,0:03:58.13,0:03:59.88,BottomCenter,,0,0,0,,狭山瞳女士
+Dialogue: 0,0:03:59.88,0:04:04.06,BottomCenter,,0,0,0,,你涉嫌杀人 被依法逮捕 \N请跟我们回署里一趟
+Dialogue: 0,0:04:04.06,0:04:07.41,BottomCenter,,0,0,0,,- 怎么回事？\N- 向坂
+Dialogue: 0,0:04:07.41,0:04:09.78,BottomCenter,,0,0,0,,这是证据
 Dialogue: 0,0:04:13.69,0:04:16.38,BottomCenter,,0,0,0,,喂！请等一下！
 Dialogue: 0,0:04:16.38,0:04:18.25,BottomCenter,,0,0,0,,这一定是弄错了！
 Dialogue: 0,0:04:18.25,0:04:21.11,BottomCenter,,0,0,0,,老师绝对不可能杀人的！
 Dialogue: 0,0:04:21.11,0:04:22.36,BottomCenter,,0,0,0,,等等！
 Dialogue: 0,0:04:45.03,0:04:47.38,BottomCenter,,0,0,0,,老师……
-Dialogue: 0,0:04:55.75,0:05:02.63,BottomCenter,,0,0,0,,2月6日晚上9点30分，你在哪里做了什么？
+Dialogue: 0,0:04:55.75,0:05:02.63,BottomCenter,,0,0,0,,2月6日晚上9点30分 你在哪里做了什么？
 Dialogue: 0,0:05:06.64,0:05:13.52,BottomCenter,,0,0,0,,2月6日晚上9点30分左右……
 Dialogue: 0,0:05:13.69,0:05:17.90,BottomCenter,,0,0,0,,“我当时在做什么？”
 Dialogue: 0,0:05:21.77,0:05:24.63,BottomCenter,,0,0,0,,“怎么回事？我这是在哪儿？”
 Dialogue: 0,0:05:27.77,0:05:30.92,BottomCenter,,0,0,0,,我想不起来了……
-Dialogue: 0,0:05:30.92,0:05:34.08,BottomCenter,,0,0,0,,我真的什么都不记得了。
-Dialogue: 0,0:05:34.08,0:05:38.92,BottomCenter,,0,0,0,,现场留下的足迹和你的鞋印完全一致。
-Dialogue: 0,0:05:38.92,0:05:41.75,BottomCenter,,0,0,0,,我们还找到了作为凶器的铁管。
-Dialogue: 0,0:05:41.75,0:05:46.30,BottomCenter,,0,0,0,,还有目击者看到你出现在案发现场。
+Dialogue: 0,0:05:30.92,0:05:34.08,BottomCenter,,0,0,0,,我真的什么都不记得了
+Dialogue: 0,0:05:34.08,0:05:38.92,BottomCenter,,0,0,0,,现场留下的足迹和你的鞋印完全一致
+Dialogue: 0,0:05:38.92,0:05:41.75,BottomCenter,,0,0,0,,我们还找到了作为凶器的铁管
+Dialogue: 0,0:05:41.75,0:05:46.30,BottomCenter,,0,0,0,,还有目击者看到你出现在案发现场
 Dialogue: 0,0:05:46.30,0:05:47.58,BottomCenter,,0,0,0,,怎么会这样……
 Dialogue: 0,0:05:47.58,0:05:48.86,BottomCenter,,0,0,0,,拜托了！
 Dialogue: 0,0:05:48.86,0:05:50.86,BottomCenter,,0,0,0,,老师绝对是清白的！
 Dialogue: 0,0:05:50.86,0:05:52.24,BottomCenter,,0,0,0,,让我见见她吧！
-Dialogue: 0,0:05:52.24,0:05:53.84,BottomCenter,,0,0,0,,不行，快回去。
+Dialogue: 0,0:05:52.24,0:05:53.84,BottomCenter,,0,0,0,,不行 快回去
 Dialogue: 0,0:05:53.84,0:05:55.43,BottomCenter,,0,0,0,,求求你们了！让我见见她！
 Dialogue: 0,0:05:55.43,0:05:56.76,BottomCenter,,0,0,0,,这不合规矩！
 Dialogue: 0,0:05:55.97,0:05:58.06,BottomCenter,,0,0,0,,怎么了？
-Dialogue: 0,0:05:58.06,0:06:01.33,BottomCenter,,0,0,0,,这个男生想见嫌疑人。
-Dialogue: 0,0:06:01.33,0:06:02.99,BottomCenter,,0,0,0,,我来处理吧。
-Dialogue: 0,0:06:02.99,0:06:05.19,BottomCenter,,0,0,0,,那就麻烦你了。
+Dialogue: 0,0:05:58.06,0:06:01.33,BottomCenter,,0,0,0,,这个男生想见嫌疑人
+Dialogue: 0,0:06:01.33,0:06:02.99,BottomCenter,,0,0,0,,我来处理吧
+Dialogue: 0,0:06:02.99,0:06:05.19,BottomCenter,,0,0,0,,那就麻烦你了
 Dialogue: 0,0:06:15.30,0:06:17.95,BottomCenter,,0,0,0,,我真的想不起来……
 Dialogue: 0,0:06:20.42,0:06:23.04,BottomCenter,,0,0,0,,你打算怎么救那个老师？
 Dialogue: 0,0:06:23.04,0:06:26.03,BottomCenter,,0,0,0,,你就那么担心她吗？
-Dialogue: 0,0:06:26.87,0:06:33.19,BottomCenter,,0,0,0,,所有证据都指向她，既有动机，又没有不在场证明。
-Dialogue: 0,0:06:33.19,0:06:36.07,BottomCenter,,0,0,0,,你什么都帮不上。
+Dialogue: 0,0:06:26.87,0:06:33.19,BottomCenter,,0,0,0,,所有证据都指向她 既有动机 又没有不在场证明
+Dialogue: 0,0:06:33.19,0:06:36.07,BottomCenter,,0,0,0,,你什么都帮不上
 Dialogue: 0,0:06:36.07,0:06:39.18,BottomCenter,,0,0,0,,你打算怎么做？
-Dialogue: 0,0:06:39.18,0:06:42.66,BottomCenter,,0,0,0,,我绝不会坐视不管的，
-Dialogue: 0,0:06:44.21,0:06:47.61,BottomCenter,,0,0,0,,一定会想办法把她救出来。
-Dialogue: 0,0:06:52.04,0:06:56.32,BottomCenter,,0,0,0,,那你就好好加油吧，弟弟。
-Dialogue: 0,0:07:12.75,0:07:16.13,BottomCenter,,0,0,0,,那么，狭山老师，我们继续吧？
-Dialogue: 0,0:07:16.13,0:07:20.07,BottomCenter,,0,0,0,,在你把一切交代清楚之前，是回不去的。
-Dialogue: 0,0:07:25.10,0:07:27.36,BottomCenter,,0,0,0,,我再问一次。
-Dialogue: 0,0:07:27.36,0:07:32.41,BottomCenter,,0,0,0,,2月6日晚上9点30分，你在哪里做了什么？
-Dialogue: 0,0:07:33.06,0:07:34.40,BottomCenter,,0,0,0,,打扰了。
-Dialogue: 0,0:07:35.62,0:07:39.19,BottomCenter,,0,0,0,,谷田部的遗体不见了。
+Dialogue: 0,0:06:39.18,0:06:42.66,BottomCenter,,0,0,0,,我绝不会坐视不管的
+Dialogue: 0,0:06:44.21,0:06:47.61,BottomCenter,,0,0,0,,一定会想办法把她救出来
+Dialogue: 0,0:06:52.04,0:06:56.32,BottomCenter,,0,0,0,,那你就好好加油吧 弟弟
+Dialogue: 0,0:07:12.75,0:07:16.13,BottomCenter,,0,0,0,,那么 狭山老师 我们继续吧？
+Dialogue: 0,0:07:16.13,0:07:20.07,BottomCenter,,0,0,0,,在你把一切交代清楚之前 是回不去的
+Dialogue: 0,0:07:25.10,0:07:27.36,BottomCenter,,0,0,0,,我再问一次
+Dialogue: 0,0:07:27.36,0:07:32.41,BottomCenter,,0,0,0,,2月6日晚上9点30分 你在哪里做了什么？
+Dialogue: 0,0:07:33.06,0:07:34.40,BottomCenter,,0,0,0,,打扰了
+Dialogue: 0,0:07:35.62,0:07:39.19,BottomCenter,,0,0,0,,谷田部的遗体不见了
 Dialogue: 0,0:07:39.19,0:07:41.27,BottomCenter,,0,0,0,,什么？
-Dialogue: 0,0:07:50.80,0:07:53.36,BottomCenter,,0,0,0,,之前明明就放在3号冷藏柜里。
-Dialogue: 0,0:07:53.36,0:07:55.49,BottomCenter,,0,0,0,,绝不会有错。
+Dialogue: 0,0:07:50.80,0:07:53.36,BottomCenter,,0,0,0,,之前明明就放在3号冷藏柜里
+Dialogue: 0,0:07:53.36,0:07:55.49,BottomCenter,,0,0,0,,绝不会有错
 Dialogue: 0,0:08:01.07,0:08:04.33,BottomCenter,,0,0,0,,先搜查整个警署！
 Dialogue: 0,0:08:04.33,0:08:06.16,BottomCenter,,0,0,0,,是！
-Dialogue: 0,0:08:10.51,0:08:13.61,BottomCenter,,0,0,0,,关于高利贷放贷人被杀一案的调查报告。
-Dialogue: 0,0:08:13.61,0:08:14.28,BottomCenter,,0,0,0,,是的。
-Dialogue: 0,0:08:14.94,0:08:17.79,BottomCenter,,0,0,0,,嫌疑人狭山瞳背负着债务。
-Dialogue: 0,0:08:17.79,0:08:20.80,BottomCenter,,0,0,0,,被害人谷田部负责向她催债。
-Dialogue: 0,0:08:20.80,0:08:25.29,BottomCenter,,0,0,0,,有人目击过他在狭山家附近和工作单位蹲守堵人。
+Dialogue: 0,0:08:10.51,0:08:13.61,BottomCenter,,0,0,0,,关于高利贷放贷人被杀一案的调查报告
+Dialogue: 0,0:08:13.61,0:08:14.28,BottomCenter,,0,0,0,,是的
+Dialogue: 0,0:08:14.94,0:08:17.79,BottomCenter,,0,0,0,,嫌疑人狭山瞳背负着债务
+Dialogue: 0,0:08:17.79,0:08:20.80,BottomCenter,,0,0,0,,被害人谷田部负责向她催债
+Dialogue: 0,0:08:20.80,0:08:25.29,BottomCenter,,0,0,0,,有人目击过他在狭山家附近和工作单位蹲守堵人
 Dialogue: 0,0:08:25.29,0:08:27.66,BottomCenter,,0,0,0,,嫌疑人还是什么都不肯交代吗？
-Dialogue: 0,0:08:27.66,0:08:28.42,BottomCenter,,0,0,0,,没有。
-Dialogue: 0,0:08:28.42,0:08:30.75,BottomCenter,,0,0,0,,她坚称自己什么都不知道，什么都想不起来。
-Dialogue: 0,0:08:30.75,0:08:34.39,BottomCenter,,0,0,0,,不像是在说谎。
-Dialogue: 0,0:08:34.39,0:08:38.13,BottomCenter,,0,0,0,,人受了打击有时确实会失忆。
-Dialogue: 0,0:08:38.13,0:08:40.31,BottomCenter,,0,0,0,,继续盯紧她。
-Dialogue: 0,0:08:40.31,0:08:41.05,BottomCenter,,0,0,0,,是的。
-Dialogue: 0,0:08:41.05,0:08:41.94,BottomCenter,,0,0,0,,下一项。
+Dialogue: 0,0:08:27.66,0:08:28.42,BottomCenter,,0,0,0,,没有
+Dialogue: 0,0:08:28.42,0:08:30.75,BottomCenter,,0,0,0,,她坚称自己什么都不知道 什么都想不起来
+Dialogue: 0,0:08:30.75,0:08:34.39,BottomCenter,,0,0,0,,不像是在说谎
+Dialogue: 0,0:08:34.39,0:08:38.13,BottomCenter,,0,0,0,,人受了打击有时确实会失忆
+Dialogue: 0,0:08:38.13,0:08:40.31,BottomCenter,,0,0,0,,继续盯紧她
+Dialogue: 0,0:08:40.31,0:08:41.05,BottomCenter,,0,0,0,,是的
+Dialogue: 0,0:08:41.05,0:08:41.94,BottomCenter,,0,0,0,,下一项
 Dialogue: 0,0:08:41.94,0:08:43.42,BottomCenter,,0,0,0,,被害人的遗体怎么回事？
-Dialogue: 0,0:08:43.42,0:08:49.33,BottomCenter,,0,0,0,,我们查了监控录像，但关键画面都被删了。
-Dialogue: 0,0:08:49.33,0:08:52.49,BottomCenter,,0,0,0,,系统很可能是被黑客入侵了。
+Dialogue: 0,0:08:43.42,0:08:49.33,BottomCenter,,0,0,0,,我们查了监控录像 但关键画面都被删了
+Dialogue: 0,0:08:49.33,0:08:52.49,BottomCenter,,0,0,0,,系统很可能是被黑客入侵了
 Dialogue: 0,0:08:52.49,0:08:55.48,BottomCenter,,0,0,0,,难道她有同伙？
-Dialogue: 0,0:08:55.48,0:08:58.10,BottomCenter,,0,0,0,,再彻底调查一遍狭山瞳。
+Dialogue: 0,0:08:55.48,0:08:58.10,BottomCenter,,0,0,0,,再彻底调查一遍狭山瞳
 Dialogue: 0,0:08:58.10,0:08:59.35,BottomCenter,,0,0,0,,是！
-Dialogue: 0,0:08:59.62,0:09:02.17,BottomCenter,,0,0,0,,- 继续！\N- 是。
-Dialogue: 0,0:09:08.13,0:09:10.26,BottomCenter,,0,0,0,,断头台。
-Dialogue: 0,0:09:11.56,0:09:14.40,BottomCenter,,0,0,0,,谷田部的人寿保险单。
-Dialogue: 0,0:09:14.40,0:09:16.97,BottomCenter,,0,0,0,,而且受益人是他妻子。
+Dialogue: 0,0:08:59.62,0:09:02.17,BottomCenter,,0,0,0,,- 继续！\N- 是
+Dialogue: 0,0:09:08.13,0:09:10.26,BottomCenter,,0,0,0,,断头台
+Dialogue: 0,0:09:11.56,0:09:14.40,BottomCenter,,0,0,0,,谷田部的人寿保险单
+Dialogue: 0,0:09:14.40,0:09:16.97,BottomCenter,,0,0,0,,而且受益人是他妻子
 Dialogue: 0,0:09:17.54,0:09:19.05,BottomCenter,,0,0,0,,这是什么意思？
-Dialogue: 0,0:09:20.57,0:09:22.31,BottomCenter,,0,0,0,,爱之助。
+Dialogue: 0,0:09:20.57,0:09:22.31,BottomCenter,,0,0,0,,爱之助
 Dialogue: 0,0:09:22.31,0:09:23.07,BottomCenter,,0,0,0,,老师人呢？
-Dialogue: 0,0:09:23.07,0:09:26.32,BottomCenter,,0,0,0,,看样子一时半会儿是出不来了。
-Dialogue: 0,0:09:26.32,0:09:29.26,BottomCenter,,0,0,0,,老师绝不会做那种事的。
-Dialogue: 0,0:09:29.26,0:09:33.82,BottomCenter,,0,0,0,,我也想相信她，但所有证据都对她不利。
-Dialogue: 0,0:09:33.82,0:09:37.34,BottomCenter,,0,0,0,,我赶时间，先走了。
+Dialogue: 0,0:09:23.07,0:09:26.32,BottomCenter,,0,0,0,,看样子一时半会儿是出不来了
+Dialogue: 0,0:09:26.32,0:09:29.26,BottomCenter,,0,0,0,,老师绝不会做那种事的
+Dialogue: 0,0:09:29.26,0:09:33.82,BottomCenter,,0,0,0,,我也想相信她 但所有证据都对她不利
+Dialogue: 0,0:09:33.82,0:09:37.34,BottomCenter,,0,0,0,,我赶时间 先走了
 Dialogue: 0,0:09:37.34,0:09:40.24,BottomCenter,,0,0,0,,出什么事了吗？
-Dialogue: 0,0:09:40.24,0:09:44.50,BottomCenter,,0,0,0,,实不相瞒，停尸房里谷田部的遗体不见了。
+Dialogue: 0,0:09:40.24,0:09:44.50,BottomCenter,,0,0,0,,实不相瞒 停尸房里谷田部的遗体不见了
 Dialogue: 0,0:09:44.50,0:09:45.90,BottomCenter,,0,0,0,,不见了？
-Dialogue: 0,0:09:45.90,0:09:47.06,BottomCenter,,0,0,0,,再见。
-Dialogue: 0,0:09:47.06,0:09:48.09,BottomCenter,,0,0,0,,请等一下。
+Dialogue: 0,0:09:45.90,0:09:47.06,BottomCenter,,0,0,0,,再见
+Dialogue: 0,0:09:47.06,0:09:48.09,BottomCenter,,0,0,0,,请等一下
 Dialogue: 0,0:09:48.09,0:09:50.25,BottomCenter,,0,0,0,,什么？
 Dialogue: 0,0:09:50.25,0:09:53.82,BottomCenter,,0,0,0,,谷田部先生是不是有一份3000万日元的保险？
 Dialogue: 0,0:09:53.82,0:09:54.70,BottomCenter,,0,0,0,,什么？
 Dialogue: 0,0:09:54.70,0:09:59.18,BottomCenter,,0,0,0,,而且领到钱的是他妻子？
 Dialogue: 0,0:09:59.18,0:10:01.54,BottomCenter,,0,0,0,,是刑警告诉你的？
 Dialogue: 0,0:10:01.54,0:10:02.59,BottomCenter,,0,0,0,,还是又是你的直觉？
-Dialogue: 0,0:10:02.59,0:10:09.04,BottomCenter,,0,0,0,,加藤先生，明天我得去一个地方。
-Dialogue: 0,0:10:09.92,0:10:15.55,BottomCenter,,0,0,0,,说不定能找到真正的凶手。
+Dialogue: 0,0:10:02.59,0:10:09.04,BottomCenter,,0,0,0,,加藤先生 明天我得去一个地方
+Dialogue: 0,0:10:09.92,0:10:15.55,BottomCenter,,0,0,0,,说不定能找到真正的凶手
 Dialogue: 0,0:10:15.55,0:10:17.16,BottomCenter,,0,0,0,,什么？
-Dialogue: 0,0:10:18.13,0:10:19.18,BottomCenter,,0,0,0,,拜托了。
+Dialogue: 0,0:10:18.13,0:10:19.18,BottomCenter,,0,0,0,,拜托了
 Dialogue: 0,0:10:31.05,0:10:33.38,BottomCenter,,0,0,0,,你想跟我聊什么？
 Dialogue: 0,0:10:36.83,0:10:40.01,BottomCenter,,0,0,0,,遗体已经找到了吗？
 Dialogue: 0,0:10:40.88,0:10:43.62,BottomCenter,,0,0,0,,笔记本里连这事也写了？
 Dialogue: 0,0:10:43.62,0:10:49.57,BottomCenter,,0,0,0,,你们打算把狭山瞳拘留到明天吗？
-Dialogue: 0,0:10:50.04,0:10:54.63,BottomCenter,,0,0,0,,把她带到我这里来。
+Dialogue: 0,0:10:50.04,0:10:54.63,BottomCenter,,0,0,0,,把她带到我这里来
 Dialogue: 0,0:10:54.63,0:10:55.64,BottomCenter,,0,0,0,,什么？
-Dialogue: 0,0:11:02.27,0:11:06.51,BottomCenter,,0,0,0,,要是答应我的要求，
-Dialogue: 0,0:11:06.51,0:11:14.19,BottomCenter,,0,0,0,,我就告诉你一些情报。
-Dialogue: 0,0:11:14.19,0:11:21.95,BottomCenter,,0,0,0,,比如，那台电脑的主人有一个弟弟。
+Dialogue: 0,0:11:02.27,0:11:06.51,BottomCenter,,0,0,0,,要是答应我的要求
+Dialogue: 0,0:11:06.51,0:11:14.19,BottomCenter,,0,0,0,,我就告诉你一些情报
+Dialogue: 0,0:11:14.19,0:11:21.95,BottomCenter,,0,0,0,,比如 那台电脑的主人有一个弟弟
 Dialogue: 0,0:11:21.95,0:11:23.33,BottomCenter,,0,0,0,,什么？
-Dialogue: 0,0:11:23.33,0:11:29.40,BottomCenter,,0,0,0,,而且那个男孩子，你也很熟悉。
-Dialogue: 0,0:11:39.60,0:11:42.66,BottomCenter,,0,0,0,,你什么都帮不上。
+Dialogue: 0,0:11:23.33,0:11:29.40,BottomCenter,,0,0,0,,而且那个男孩子 你也很熟悉
+Dialogue: 0,0:11:39.60,0:11:42.66,BottomCenter,,0,0,0,,你什么都帮不上
 Dialogue: 0,0:11:42.66,0:11:43.93,BottomCenter,,0,0,0,,你打算怎么做？
-Dialogue: 0,0:11:45.84,0:11:48.22,BottomCenter,,0,0,0,,我一定会把她救出来的。
-Dialogue: 0,0:11:50.03,0:11:51.64,BottomCenter,,0,0,0,,爱之助，欢迎回来。
-Dialogue: 0,0:11:51.64,0:11:52.62,BottomCenter,,0,0,0,,我们一直在等你呢。
-Dialogue: 0,0:11:52.62,0:11:54.87,BottomCenter,,0,0,0,,你看，很棒吧？
-Dialogue: 0,0:11:55.55,0:11:58.04,BottomCenter,,0,0,0,,这张是给爱之助的。
+Dialogue: 0,0:11:45.84,0:11:48.22,BottomCenter,,0,0,0,,我一定会把她救出来的
+Dialogue: 0,0:11:50.03,0:11:51.64,BottomCenter,,0,0,0,,爱之助 欢迎回来
+Dialogue: 0,0:11:51.64,0:11:52.62,BottomCenter,,0,0,0,,我们一直在等你呢
+Dialogue: 0,0:11:52.62,0:11:54.87,BottomCenter,,0,0,0,,你看 很棒吧？
+Dialogue: 0,0:11:55.55,0:11:58.04,BottomCenter,,0,0,0,,这张是给爱之助的
 Dialogue: 0,0:11:58.69,0:11:59.91,BottomCenter,,0,0,0,,Lady X？
 Dialogue: 0,0:11:59.91,0:12:02.30,BottomCenter,,0,0,0,,你没听说过她吗？
-Dialogue: 0,0:12:02.30,0:12:04.98,BottomCenter,,0,0,0,,她现在可红了。
-Dialogue: 0,0:12:04.98,0:12:09.34,BottomCenter,,0,0,0,,会表演断头台魔术呢，厉害吧？
+Dialogue: 0,0:12:02.30,0:12:04.98,BottomCenter,,0,0,0,,她现在可红了
+Dialogue: 0,0:12:04.98,0:12:09.34,BottomCenter,,0,0,0,,会表演断头台魔术呢 厉害吧？
 Dialogue: 0,0:12:09.34,0:12:10.83,BottomCenter,,0,0,0,,断头台？
 Dialogue: 0,0:12:13.51,0:12:18.89,BottomCenter,,0,0,0,,这场魔术秀和案子有关系吗？
-Dialogue: 0,0:12:18.89,0:12:22.47,BottomCenter,,0,0,0,,这是以前跟我一起工作过的女人给我的。
-Dialogue: 0,0:12:22.47,0:12:24.98,BottomCenter,,0,0,0,,话说回来，房东，你以前到底是干什么的啊？
-Dialogue: 0,0:12:24.98,0:12:27.19,BottomCenter,,0,0,0,,哎呀，不提也罢。
+Dialogue: 0,0:12:18.89,0:12:22.47,BottomCenter,,0,0,0,,这是以前跟我一起工作过的女人给我的
+Dialogue: 0,0:12:22.47,0:12:24.98,BottomCenter,,0,0,0,,话说回来 房东 你以前到底是干什么的啊？
+Dialogue: 0,0:12:24.98,0:12:27.19,BottomCenter,,0,0,0,,哎呀 不提也罢
 Dialogue: 0,0:12:27.19,0:12:30.95,BottomCenter,,0,0,0,,居然保密？太可疑了！
-Dialogue: 0,0:12:41.62,0:12:43.02,BottomCenter,,0,0,0,,欢迎光临。
+Dialogue: 0,0:12:41.62,0:12:43.02,BottomCenter,,0,0,0,,欢迎光临
 Dialogue: 0,0:12:44.66,0:12:48.13,BottomCenter,,0,0,0,,你是谁？
-Dialogue: 0,0:12:48.13,0:12:52.46,BottomCenter,,0,0,0,,过来陪我聊会儿嘛。
+Dialogue: 0,0:12:48.13,0:12:52.46,BottomCenter,,0,0,0,,过来陪我聊会儿嘛
 Dialogue: 0,0:12:53.74,0:12:57.06,BottomCenter,,0,0,0,,总是一个人待着无聊死了！
-Dialogue: 0,0:13:13.69,0:13:15.38,BottomCenter,,0,0,0,,请坐。
+Dialogue: 0,0:13:13.69,0:13:15.38,BottomCenter,,0,0,0,,请坐
 Dialogue: 0,0:13:28.91,0:13:32.79,BottomCenter,,0,0,0,,你叫什么名字？
-Dialogue: 0,0:13:34.52,0:13:37.84,BottomCenter,,0,0,0,,狭山瞳。
+Dialogue: 0,0:13:34.52,0:13:37.84,BottomCenter,,0,0,0,,狭山瞳
 Dialogue: 0,0:13:37.84,0:13:40.82,BottomCenter,,0,0,0,,怎么写？
-Dialogue: 0,0:13:40.82,0:13:51.87,BottomCenter,,0,0,0,,狭窄的狭，高山的山，瞳孔的瞳。
-Dialogue: 0,0:13:51.87,0:13:53.69,BottomCenter,,0,0,0,,我叫黑晶晶。
-Dialogue: 0,0:13:54.97,0:13:56.63,BottomCenter,,0,0,0,,拿着。
+Dialogue: 0,0:13:40.82,0:13:51.87,BottomCenter,,0,0,0,,狭窄的狭 高山的山 瞳孔的瞳
+Dialogue: 0,0:13:51.87,0:13:53.69,BottomCenter,,0,0,0,,我叫黑晶晶
+Dialogue: 0,0:13:54.97,0:13:56.63,BottomCenter,,0,0,0,,拿着
 Dialogue: 0,0:13:58.65,0:14:00.43,BottomCenter,,0,0,0,,*我想让你当我的卧底*
-Dialogue: 0,0:14:01.14,0:14:05.09,BottomCenter,,0,0,0,,黑晶晶写作黑色的“黑”、水晶的“晶”，“晶”也是水晶的“晶”。
+Dialogue: 0,0:14:01.14,0:14:05.09,BottomCenter,,0,0,0,,黑晶晶写作黑色的“黑” 水晶的“晶” “晶”也是水晶的“晶”
 Dialogue: 0,0:14:11.50,0:14:13.07,BottomCenter,,0,0,0,,你做什么工作的？
-Dialogue: 0,0:14:14.10,0:14:17.42,BottomCenter,,0,0,0,,初中的保健老师。
+Dialogue: 0,0:14:14.10,0:14:17.42,BottomCenter,,0,0,0,,初中的保健老师
 Dialogue: 0,0:14:17.42,0:14:20.07,BottomCenter,,0,0,0,,这么说是老师了？
-Dialogue: 0,0:14:20.92,0:14:23.92,BottomCenter,,0,0,0,,而且还是公务员。
+Dialogue: 0,0:14:20.92,0:14:23.92,BottomCenter,,0,0,0,,而且还是公务员
 Dialogue: 0,0:14:25.03,0:14:27.76,BottomCenter,,0,0,0,,收入挺高吧？
 Dialogue: 0,0:14:27.76,0:14:29.72,BottomCenter,,0,0,0,,怎么会……
-Dialogue: 0,0:14:29.72,0:14:30.87,BottomCenter,,0,0,0,,拿着。
+Dialogue: 0,0:14:29.72,0:14:30.87,BottomCenter,,0,0,0,,拿着
 Dialogue: 0,0:14:32.95,0:14:34.59,BottomCenter,,0,0,0,,*报酬是2000万日元*
 Dialogue: 0,0:14:34.90,0:14:36.14,BottomCenter,,0,0,0,,两千……
 Dialogue: 0,0:14:54.12,0:14:56.20,BottomCenter,,0,0,0,,怎么样？
-Dialogue: 0,0:15:11.12,0:15:14.86,BottomCenter,,0,0,0,,不好意思让您翘班陪我出来。
+Dialogue: 0,0:15:11.12,0:15:14.86,BottomCenter,,0,0,0,,不好意思让您翘班陪我出来
 Dialogue: 0,0:15:14.86,0:15:18.01,BottomCenter,,0,0,0,,肚子痛——
-Dialogue: 0,0:15:18.01,0:15:21.18,BottomCenter,,0,0,0,,从小学生时代起就百试百灵的借口。
-Dialogue: 0,0:15:21.18,0:15:25.74,BottomCenter,,0,0,0,,没办法啊，班又不能平白无故不上。
-Dialogue: 0,0:15:26.19,0:15:30.47,BottomCenter,,0,0,0,,话说回来，遗体还没找到吗？
-Dialogue: 0,0:15:30.47,0:15:32.92,BottomCenter,,0,0,0,,还没呢。
-Dialogue: 0,0:15:33.64,0:15:36.38,BottomCenter,,0,0,0,,我悄悄告诉你，
-Dialogue: 0,0:15:36.38,0:15:43.63,BottomCenter,,0,0,0,,停尸房的监控录像被删了，遗体多半是被人运走了。
+Dialogue: 0,0:15:18.01,0:15:21.18,BottomCenter,,0,0,0,,从小学生时代起就百试百灵的借口
+Dialogue: 0,0:15:21.18,0:15:25.74,BottomCenter,,0,0,0,,没办法啊 班又不能平白无故不上
+Dialogue: 0,0:15:26.19,0:15:30.47,BottomCenter,,0,0,0,,话说回来 遗体还没找到吗？
+Dialogue: 0,0:15:30.47,0:15:32.92,BottomCenter,,0,0,0,,还没呢
+Dialogue: 0,0:15:33.64,0:15:36.38,BottomCenter,,0,0,0,,我悄悄告诉你
+Dialogue: 0,0:15:36.38,0:15:43.63,BottomCenter,,0,0,0,,停尸房的监控录像被删了 遗体多半是被人运走了
 Dialogue: 0,0:15:43.63,0:15:46.00,BottomCenter,,0,0,0,,到底图什么啊？
 Dialogue: 0,0:15:49.23,0:15:51.18,BottomCenter,,0,0,0,,谷田部
-Dialogue: 0,0:15:55.64,0:15:57.56,BottomCenter,,0,0,0,,请进。
-Dialogue: 0,0:15:58.03,0:16:00.11,BottomCenter,,0,0,0,,小太郎，过来。
-Dialogue: 0,0:16:00.11,0:16:01.03,BottomCenter,,0,0,0,,你好。
-Dialogue: 0,0:16:01.03,0:16:02.66,BottomCenter,,0,0,0,,请进。
-Dialogue: 0,0:16:24.84,0:16:26.46,BottomCenter,,0,0,0,,请坐。
-Dialogue: 0,0:16:26.46,0:16:28.03,BottomCenter,,0,0,0,,谢谢。
-Dialogue: 0,0:16:31.48,0:16:35.51,BottomCenter,,0,0,0,,请问，那个洞是……？
-Dialogue: 0,0:16:35.51,0:16:41.63,BottomCenter,,0,0,0,,那是……我儿子淘气弄的。
-Dialogue: 0,0:16:41.63,0:16:43.66,BottomCenter,,0,0,0,,淘气弄的啊。
+Dialogue: 0,0:15:55.64,0:15:57.56,BottomCenter,,0,0,0,,请进
+Dialogue: 0,0:15:58.03,0:16:00.11,BottomCenter,,0,0,0,,小太郎 过来
+Dialogue: 0,0:16:00.11,0:16:01.03,BottomCenter,,0,0,0,,你好
+Dialogue: 0,0:16:01.03,0:16:02.66,BottomCenter,,0,0,0,,请进
+Dialogue: 0,0:16:24.84,0:16:26.46,BottomCenter,,0,0,0,,请坐
+Dialogue: 0,0:16:26.46,0:16:28.03,BottomCenter,,0,0,0,,谢谢
+Dialogue: 0,0:16:31.48,0:16:35.51,BottomCenter,,0,0,0,,请问 那个洞是……？
+Dialogue: 0,0:16:35.51,0:16:41.63,BottomCenter,,0,0,0,,那是……我儿子淘气弄的
+Dialogue: 0,0:16:41.63,0:16:43.66,BottomCenter,,0,0,0,,淘气弄的啊
 Dialogue: 0,0:16:43.66,0:16:46.28,BottomCenter,,0,0,0,,请问有什么事吗？
 Dialogue: 0,0:16:46.28,0:16:48.61,BottomCenter,,0,0,0,,昨天不是已经谈过了吗？
 Dialogue: 0,0:16:48.61,0:16:52.92,BottomCenter,,0,0,0,,凶手不是已经抓到了吗？
-Dialogue: 0,0:16:52.92,0:16:57.78,BottomCenter,,0,0,0,,没有，我们还在调查。
+Dialogue: 0,0:16:52.92,0:16:57.78,BottomCenter,,0,0,0,,没有 我们还在调查
 Dialogue: 0,0:16:57.78,0:17:00.73,BottomCenter,,0,0,0,,冒昧问一下……
-Dialogue: 0,0:17:00.73,0:17:07.19,BottomCenter,,0,0,0,,你丈夫遇害那天，你在做什么？
-Dialogue: 0,0:17:07.82,0:17:11.92,BottomCenter,,0,0,0,,那天我和儿子去看了魔术秀。
-Dialogue: 0,0:17:11.92,0:17:16.24,BottomCenter,,0,0,0,,从晚上七点一直看到十点。
-Dialogue: 0,0:17:20.92,0:17:22.00,BottomCenter,,0,0,0,,是Lady X的演出。
-Dialogue: 0,0:17:22.00,0:17:25.14,BottomCenter,,0,0,0,,魔术师应该还记得我们。
-Dialogue: 0,0:17:25.14,0:17:28.27,BottomCenter,,0,0,0,,你们去问问就知道了。
-Dialogue: 0,0:17:29.29,0:17:39.42,BottomCenter,,0,0,0,,要想证明老师的清白，就必须找到真凶。
-Dialogue: 0,0:17:39.42,0:17:45.84,BottomCenter,,0,0,0,,我左眼看到的保险金，受益人是死者的妻子。
-Dialogue: 0,0:17:45.84,0:17:50.46,BottomCenter,,0,0,0,,既然我看到了，那就说明……
+Dialogue: 0,0:17:00.73,0:17:07.19,BottomCenter,,0,0,0,,你丈夫遇害那天 你在做什么？
+Dialogue: 0,0:17:07.82,0:17:11.92,BottomCenter,,0,0,0,,那天我和儿子去看了魔术秀
+Dialogue: 0,0:17:11.92,0:17:16.24,BottomCenter,,0,0,0,,从晚上七点一直看到十点
+Dialogue: 0,0:17:20.92,0:17:22.00,BottomCenter,,0,0,0,,是Lady X的演出
+Dialogue: 0,0:17:22.00,0:17:25.14,BottomCenter,,0,0,0,,魔术师应该还记得我们
+Dialogue: 0,0:17:25.14,0:17:28.27,BottomCenter,,0,0,0,,你们去问问就知道了
+Dialogue: 0,0:17:29.29,0:17:39.42,BottomCenter,,0,0,0,,要想证明老师的清白 就必须找到真凶
+Dialogue: 0,0:17:39.42,0:17:45.84,BottomCenter,,0,0,0,,我左眼看到的保险金 受益人是死者的妻子
+Dialogue: 0,0:17:45.84,0:17:50.46,BottomCenter,,0,0,0,,既然我看到了 那就说明……
 Dialogue: 0,0:17:56.00,0:17:57.81,BottomCenter,,0,0,0,,打扰了……
-Dialogue: 0,0:17:57.81,0:18:00.22,BottomCenter,,0,0,0,,什么都没有。
-Dialogue: 0,0:18:09.74,0:18:15.47,BottomCenter,,0,0,0,,看到她脖子上的瘀伤了吗？像是家暴留下的。
+Dialogue: 0,0:17:57.81,0:18:00.22,BottomCenter,,0,0,0,,什么都没有
+Dialogue: 0,0:18:09.74,0:18:15.47,BottomCenter,,0,0,0,,看到她脖子上的瘀伤了吗？像是家暴留下的
 Dialogue: 0,0:18:16.28,0:18:18.04,BottomCenter,,0,0,0,,家暴？
-Dialogue: 0,0:18:18.04,0:18:21.00,BottomCenter,,0,0,0,,家庭暴力。
-Dialogue: 0,0:18:21.57,0:18:27.78,BottomCenter,,0,0,0,,邻居们也听到过砸东西的声音和惨叫声。
-Dialogue: 0,0:18:27.78,0:18:32.58,BottomCenter,,0,0,0,,也就是说，如果谷田部的妻子长期遭受家暴……
-Dialogue: 0,0:18:33.77,0:18:35.61,BottomCenter,,0,0,0,,那就有了杀人动机。
-Dialogue: 0,0:18:35.61,0:18:42.47,BottomCenter,,0,0,0,,是啊，但她有不在场证明——当时在看魔术秀。
-Dialogue: 0,0:18:49.01,0:18:52.23,BottomCenter,,0,0,0,,我现在正要去那里，昨天正好拿到了门票。
-Dialogue: 0,0:18:52.23,0:18:54.74,BottomCenter,,0,0,0,,是吗？那我也一起去。
-Dialogue: 0,0:18:54.74,0:18:57.12,BottomCenter,,0,0,0,,亮出警徽就能进去了。
+Dialogue: 0,0:18:18.04,0:18:21.00,BottomCenter,,0,0,0,,家庭暴力
+Dialogue: 0,0:18:21.57,0:18:27.78,BottomCenter,,0,0,0,,邻居们也听到过砸东西的声音和惨叫声
+Dialogue: 0,0:18:27.78,0:18:32.58,BottomCenter,,0,0,0,,也就是说 如果谷田部的妻子长期遭受家暴……
+Dialogue: 0,0:18:33.77,0:18:35.61,BottomCenter,,0,0,0,,那就有了杀人动机
+Dialogue: 0,0:18:35.61,0:18:42.47,BottomCenter,,0,0,0,,是啊 但她有不在场证明——当时在看魔术秀
+Dialogue: 0,0:18:49.01,0:18:52.23,BottomCenter,,0,0,0,,我现在正要去那里 昨天正好拿到了门票
+Dialogue: 0,0:18:52.23,0:18:54.74,BottomCenter,,0,0,0,,是吗？那我也一起去
+Dialogue: 0,0:18:54.74,0:18:57.12,BottomCenter,,0,0,0,,亮出警徽就能进去了
 Dialogue: 0,0:19:07.57,0:19:10.12,BottomCenter,,0,0,0,,打扰了……
 Dialogue: 0,0:19:10.95,0:19:14.11,BottomCenter,,0,0,0,,能听到我说话吗？
-Dialogue: 0,0:19:15.92,0:19:20.99,BottomCenter,,0,0,0,,我真的什么都不记得了。
+Dialogue: 0,0:19:15.92,0:19:20.99,BottomCenter,,0,0,0,,我真的什么都不记得了
 Dialogue: 0,0:19:20.99,0:19:24.80,BottomCenter,,0,0,0,,能不能放我出去？
-Dialogue: 0,0:19:31.95,0:19:36.49,BottomCenter,,0,0,0,,求求你们了，我真的想不起来。
-Dialogue: 0,0:19:36.49,0:19:41.14,BottomCenter,,0,0,0,,救救我，放我出去吧。
+Dialogue: 0,0:19:31.95,0:19:36.49,BottomCenter,,0,0,0,,求求你们了 我真的想不起来
+Dialogue: 0,0:19:36.49,0:19:41.14,BottomCenter,,0,0,0,,救救我 放我出去吧
 Dialogue: 0,0:19:49.40,0:19:52.36,BottomCenter,,0,0,0,,那种感觉……
 Dialogue: 0,0:19:55.36,0:19:57.69,BottomCenter,,0,0,0,,是我打了他……
 Dialogue: 0,0:20:00.12,0:20:03.78,BottomCenter,,0,0,0,,是我……是我……
-Dialogue: 0,0:20:43.53,0:20:46.46,BottomCenter,,0,0,0,,我们想向您打听几件事。
+Dialogue: 0,0:20:43.53,0:20:46.46,BottomCenter,,0,0,0,,我们想向您打听几件事
 Dialogue: 0,0:20:46.46,0:20:50.51,BottomCenter,,0,0,0,,您对这两个人有印象吗？
-Dialogue: 0,0:20:50.51,0:20:53.89,BottomCenter,,0,0,0,,他们2月6日来看过演出。
-Dialogue: 0,0:20:53.89,0:20:57.55,BottomCenter,,0,0,0,,我对他们印象很深。
-Dialogue: 0,0:21:03.31,0:21:07.05,BottomCenter,,0,0,0,,因为当时出了点小意外。
-Dialogue: 0,0:21:07.05,0:21:11.32,BottomCenter,,0,0,0,,有个魔术需要从观众里挑志愿者配合。
-Dialogue: 0,0:21:35.77,0:21:41.22,BottomCenter,,0,0,0,,数到一的时候，你就把拉炮拉响哦。
+Dialogue: 0,0:20:50.51,0:20:53.89,BottomCenter,,0,0,0,,他们2月6日来看过演出
+Dialogue: 0,0:20:53.89,0:20:57.55,BottomCenter,,0,0,0,,我对他们印象很深
+Dialogue: 0,0:21:03.31,0:21:07.05,BottomCenter,,0,0,0,,因为当时出了点小意外
+Dialogue: 0,0:21:07.05,0:21:11.32,BottomCenter,,0,0,0,,有个魔术需要从观众里挑志愿者配合
+Dialogue: 0,0:21:35.77,0:21:41.22,BottomCenter,,0,0,0,,数到一的时候 你就把拉炮拉响哦
 Dialogue: 0,0:21:49.66,0:21:50.75,BottomCenter,,0,0,0,,1！
 Dialogue: 0,0:22:08.42,0:22:09.71,BottomCenter,,0,0,0,,妈妈不见了……
 Dialogue: 0,0:22:09.71,0:22:13.36,BottomCenter,,0,0,0,,妈妈……妈妈……
-Dialogue: 0,0:22:16.16,0:22:18.68,BottomCenter,,0,0,0,,要是妈妈不见了，我又会被打的。
-Dialogue: 0,0:22:18.68,0:22:20.25,BottomCenter,,0,0,0,,我们完全没想到孩子会这么说。
-Dialogue: 0,0:22:20.25,0:22:23.09,BottomCenter,,0,0,0,,场面一下子变得很尴尬，我也慌了神。
+Dialogue: 0,0:22:16.16,0:22:18.68,BottomCenter,,0,0,0,,要是妈妈不见了 我又会被打的
+Dialogue: 0,0:22:18.68,0:22:20.25,BottomCenter,,0,0,0,,我们完全没想到孩子会这么说
+Dialogue: 0,0:22:20.25,0:22:23.09,BottomCenter,,0,0,0,,场面一下子变得很尴尬 我也慌了神
 Dialogue: 0,0:22:23.34,0:22:26.48,BottomCenter,,0,0,0,,“又会被打”……
-Dialogue: 0,0:22:27.23,0:22:30.82,BottomCenter,,0,0,0,,看来谷田部确实经常家暴他们。
+Dialogue: 0,0:22:27.23,0:22:30.82,BottomCenter,,0,0,0,,看来谷田部确实经常家暴他们
 Dialogue: 0,0:22:31.85,0:22:35.15,BottomCenter,,0,0,0,,后来呢？
-Dialogue: 0,0:22:35.15,0:22:40.58,BottomCenter,,0,0,0,,Lady X赶紧出来圆场。
-Dialogue: 0,0:22:44.04,0:22:46.83,BottomCenter,,0,0,0,,来，再拉一次拉炮。
-Dialogue: 0,0:22:46.83,0:22:50.04,BottomCenter,,0,0,0,,不要，一拉妈妈就消失了！
-Dialogue: 0,0:22:50.04,0:22:51.64,BottomCenter,,0,0,0,,只要再拉一次，妈妈就会回来的。
+Dialogue: 0,0:22:35.15,0:22:40.58,BottomCenter,,0,0,0,,Lady X赶紧出来圆场
+Dialogue: 0,0:22:44.04,0:22:46.83,BottomCenter,,0,0,0,,来 再拉一次拉炮
+Dialogue: 0,0:22:46.83,0:22:50.04,BottomCenter,,0,0,0,,不要 一拉妈妈就消失了！
+Dialogue: 0,0:22:50.04,0:22:51.64,BottomCenter,,0,0,0,,只要再拉一次 妈妈就会回来的
 Dialogue: 0,0:22:51.64,0:22:53.42,BottomCenter,,0,0,0,,不要啊！
 Dialogue: 0,0:23:08.00,0:23:09.97,BottomCenter,,0,0,0,,妈妈！
 Dialogue: 0,0:23:10.00,0:23:12.00,BottomCenter,,0,0,0,,小太郎……
 Dialogue: 0,0:23:15.60,0:23:21.09,BottomCenter,,0,0,0,,那位母亲消失了多久？
-Dialogue: 0,0:23:21.09,0:23:23.83,BottomCenter,,0,0,0,,因为孩子一直在哭闹，
-Dialogue: 0,0:23:23.83,0:23:26.91,BottomCenter,,0,0,0,,耽误了一点时间，不过平时也就两三分钟。
-Dialogue: 0,0:23:26.91,0:23:30.28,BottomCenter,,0,0,0,,这么短的时间，根本不可能去杀人再埋尸。
-Dialogue: 0,0:23:30.28,0:23:34.39,BottomCenter,,0,0,0,,那在此之前或之后，她有离开过座位吗？
-Dialogue: 0,0:23:34.39,0:23:38.74,BottomCenter,,0,0,0,,没有，要是离席肯定很显眼。
-Dialogue: 0,0:23:38.74,0:23:43.77,BottomCenter,,0,0,0,,观众也只能从大厅正门出入。
-Dialogue: 0,0:23:45.24,0:23:48.92,BottomCenter,,0,0,0,,演出还有10分钟就开始了。
-Dialogue: 0,0:23:49.64,0:23:51.47,BottomCenter,,0,0,0,,是的。
-Dialogue: 0,0:23:56.24,0:24:00.36,BottomCenter,,0,0,0,,会不会是收买了保安，从后门溜出去的？
-Dialogue: 0,0:24:00.36,0:24:04.85,BottomCenter,,0,0,0,,可是从这里到埋尸现场，单程就要近一个小时。
-Dialogue: 0,0:24:05.54,0:24:09.61,BottomCenter,,0,0,0,,就算她中途出去过，时间也根本不够。
-Dialogue: 0,0:24:09.61,0:24:13.01,BottomCenter,,0,0,0,,这么说，妻子不是凶手？
-Dialogue: 0,0:24:14.21,0:24:16.83,BottomCenter,,0,0,0,,谷田部家暴他们，
-Dialogue: 0,0:24:16.83,0:24:23.74,BottomCenter,,0,0,0,,杀人动机很充分，但她的不在场证明毫无破绽。
-Dialogue: 0,0:24:28.94,0:24:43.06,BottomCenter,,0,0,0,,是我……是我用铁管打了谷田部先生。
+Dialogue: 0,0:23:21.09,0:23:23.83,BottomCenter,,0,0,0,,因为孩子一直在哭闹
+Dialogue: 0,0:23:23.83,0:23:26.91,BottomCenter,,0,0,0,,耽误了一点时间 不过平时也就两三分钟
+Dialogue: 0,0:23:26.91,0:23:30.28,BottomCenter,,0,0,0,,这么短的时间 根本不可能去杀人再埋尸
+Dialogue: 0,0:23:30.28,0:23:34.39,BottomCenter,,0,0,0,,那在此之前或之后 她有离开过座位吗？
+Dialogue: 0,0:23:34.39,0:23:38.74,BottomCenter,,0,0,0,,没有 要是离席肯定很显眼
+Dialogue: 0,0:23:38.74,0:23:43.77,BottomCenter,,0,0,0,,观众也只能从大厅正门出入
+Dialogue: 0,0:23:45.24,0:23:48.92,BottomCenter,,0,0,0,,演出还有10分钟就开始了
+Dialogue: 0,0:23:49.64,0:23:51.47,BottomCenter,,0,0,0,,是的
+Dialogue: 0,0:23:56.24,0:24:00.36,BottomCenter,,0,0,0,,会不会是收买了保安 从后门溜出去的？
+Dialogue: 0,0:24:00.36,0:24:04.85,BottomCenter,,0,0,0,,可是从这里到埋尸现场 单程就要近一个小时
+Dialogue: 0,0:24:05.54,0:24:09.61,BottomCenter,,0,0,0,,就算她中途出去过 时间也根本不够
+Dialogue: 0,0:24:09.61,0:24:13.01,BottomCenter,,0,0,0,,这么说 妻子不是凶手？
+Dialogue: 0,0:24:14.21,0:24:16.83,BottomCenter,,0,0,0,,谷田部家暴他们
+Dialogue: 0,0:24:16.83,0:24:23.74,BottomCenter,,0,0,0,,杀人动机很充分 但她的不在场证明毫无破绽
+Dialogue: 0,0:24:28.94,0:24:43.06,BottomCenter,,0,0,0,,是我……是我用铁管打了谷田部先生
 Dialogue: 0,0:24:45.20,0:24:47.34,BottomCenter,,0,0,0,,他突然扑向我……
-Dialogue: 0,0:24:54.83,0:24:56.19,BottomCenter,,0,0,0,,我当时太害怕了。
+Dialogue: 0,0:24:54.83,0:24:56.19,BottomCenter,,0,0,0,,我当时太害怕了
 Dialogue: 0,0:24:57.45,0:24:59.33,BottomCenter,,0,0,0,,所以就……
-Dialogue: 0,0:25:20.85,0:25:25.49,BottomCenter,,0,0,0,,警官，狭山瞳全都招供了。
+Dialogue: 0,0:25:20.85,0:25:25.49,BottomCenter,,0,0,0,,警官 狭山瞳全都招供了
 Dialogue: 0,0:25:31.78,0:25:32.71,BottomCenter,,0,0,0,,喂？
-Dialogue: 0,0:25:35.79,0:25:36.68,BottomCenter,,0,0,0,,原来如此。
+Dialogue: 0,0:25:35.79,0:25:36.68,BottomCenter,,0,0,0,,原来如此
 Dialogue: 0,0:25:37.57,0:25:38.56,BottomCenter,,0,0,0,,怎么了？
-Dialogue: 0,0:25:39.78,0:25:45.09,BottomCenter,,0,0,0,,他们说狭山老师招供了，承认是她杀了谷田部……
+Dialogue: 0,0:25:39.78,0:25:45.09,BottomCenter,,0,0,0,,他们说狭山老师招供了 承认是她杀了谷田部……
 Dialogue: 0,0:25:45.58,0:25:47.42,BottomCenter,,0,0,0,,什么？
 Dialogue: 0,0:25:47.77,0:25:50.04,BottomCenter,,0,0,0,,怎么会……
-Dialogue: 0,0:25:51.18,0:25:53.91,BottomCenter,,0,0,0,,老师绝不可能杀人。
+Dialogue: 0,0:25:51.18,0:25:53.91,BottomCenter,,0,0,0,,老师绝不可能杀人
 Dialogue: 0,0:25:59.53,0:26:03.33,BottomCenter,,0,0,0,,这一定是哥哥布下的圈套……
 Dialogue: 0,0:26:03.66,0:26:06.48,BottomCenter,,0,0,0,,必须赶快查出真相才行……
-Dialogue: 0,0:26:11.59,0:26:19.22,BottomCenter,,0,0,0,,今天，我要为大家展示一件在中世纪令人闻风丧胆的刑具。
-Dialogue: 0,0:26:28.42,0:26:33.04,BottomCenter,,0,0,0,,果然没错，这场魔术秀和案子有关系。
-Dialogue: 0,0:26:38.40,0:26:44.71,BottomCenter,,0,0,0,,我要惩罚这个犯下重罪的人。
-Dialogue: 0,0:27:01.96,0:27:09.77,BottomCenter,,0,0,0,,请大家屏住呼吸，见证罪人最后的时刻。
-Dialogue: 0,0:27:13.33,0:27:15.42,BottomCenter,,0,0,0,,开始吧。
-Dialogue: 0,0:27:20.80,0:27:22.66,BottomCenter,,0,0,0,,停。
-Dialogue: 0,0:27:28.45,0:27:29.90,BottomCenter,,0,0,0,,落刀。
-Dialogue: 0,0:27:32.57,0:27:35.06,BottomCenter,,0,0,0,,行刑完毕。
-Dialogue: 0,0:27:46.14,0:27:50.04,BottomCenter,,0,0,0,,这颗头颅就送给各位了。
+Dialogue: 0,0:26:11.59,0:26:19.22,BottomCenter,,0,0,0,,今天 我要为大家展示一件在中世纪令人闻风丧胆的刑具
+Dialogue: 0,0:26:28.42,0:26:33.04,BottomCenter,,0,0,0,,果然没错 这场魔术秀和案子有关系
+Dialogue: 0,0:26:38.40,0:26:44.71,BottomCenter,,0,0,0,,我要惩罚这个犯下重罪的人
+Dialogue: 0,0:27:01.96,0:27:09.77,BottomCenter,,0,0,0,,请大家屏住呼吸 见证罪人最后的时刻
+Dialogue: 0,0:27:13.33,0:27:15.42,BottomCenter,,0,0,0,,开始吧
+Dialogue: 0,0:27:20.80,0:27:22.66,BottomCenter,,0,0,0,,停
+Dialogue: 0,0:27:28.45,0:27:29.90,BottomCenter,,0,0,0,,落刀
+Dialogue: 0,0:27:32.57,0:27:35.06,BottomCenter,,0,0,0,,行刑完毕
+Dialogue: 0,0:27:46.14,0:27:50.04,BottomCenter,,0,0,0,,这颗头颅就送给各位了
 Dialogue: 0,0:27:51.94,0:27:54.79,BottomCenter,,0,0,0,,不对不对……
-Dialogue: 0,0:27:54.79,0:27:57.03,BottomCenter,,0,0,0,,请看。
+Dialogue: 0,0:27:54.79,0:27:57.03,BottomCenter,,0,0,0,,请看
 Dialogue: 0,0:27:58.11,0:28:00.09,BottomCenter,,0,0,0,,卷心菜？
-Dialogue: 0,0:28:30.09,0:28:36.94,BottomCenter,,0,0,0,,女士们先生们，接下来是压轴好戏。
-Dialogue: 0,0:28:59.72,0:29:02.34,BottomCenter,,0,0,0,,今天我特意改动了内容。
-Dialogue: 0,0:29:03.32,0:29:04.51,BottomCenter,,0,0,0,,给。
-Dialogue: 0,0:29:05.11,0:29:16.09,BottomCenter,,0,0,0,,我把炸药放进箱子里。一旦爆炸，里面的人当然必死无疑。
-Dialogue: 0,0:29:16.73,0:29:29.07,BottomCenter,,0,0,0,,能成功吗？这需要极大的努力，希望能得到大家的支持……
+Dialogue: 0,0:28:30.09,0:28:36.94,BottomCenter,,0,0,0,,女士们先生们 接下来是压轴好戏
+Dialogue: 0,0:28:59.72,0:29:02.34,BottomCenter,,0,0,0,,今天我特意改动了内容
+Dialogue: 0,0:29:03.32,0:29:04.51,BottomCenter,,0,0,0,,给
+Dialogue: 0,0:29:05.11,0:29:16.09,BottomCenter,,0,0,0,,我把炸药放进箱子里 一旦爆炸 里面的人当然必死无疑
+Dialogue: 0,0:29:16.73,0:29:29.07,BottomCenter,,0,0,0,,能成功吗？这需要极大的努力 希望能得到大家的支持……
 Dialogue: 0,0:29:30.72,0:29:36.95,BottomCenter,,0,0,0,,有哪位勇士敢躺进箱子里吗？
 Dialogue: 0,0:29:38.48,0:29:41.95,BottomCenter,,0,0,0,,真的一个都没有吗？
 Dialogue: 0,0:29:51.01,0:29:57.75,BottomCenter,,0,0,0,,今天场内就没有一个有胆量的吗？
 Dialogue: 0,0:29:58.47,0:30:01.06,BottomCenter,,0,0,0,,随便哪位都行！
-Dialogue: 0,0:30:02.49,0:30:05.53,BottomCenter,,0,0,0,,你们都是胆小鬼。
+Dialogue: 0,0:30:02.49,0:30:05.53,BottomCenter,,0,0,0,,你们都是胆小鬼
 Dialogue: 0,0:30:06.65,0:30:07.67,BottomCenter,,0,0,0,,我来！
 Dialogue: 0,0:30:09.22,0:30:12.43,BottomCenter,,0,0,0,,很有精神的回答！
-Dialogue: 0,0:30:12.92,0:30:17.40,BottomCenter,,0,0,0,,请那位勇敢的少年上台来。
-Dialogue: 0,0:30:23.70,0:30:25.28,BottomCenter,,0,0,0,,爱之助，加油！
+Dialogue: 0,0:30:12.92,0:30:17.40,BottomCenter,,0,0,0,,请那位勇敢的少年上台来
+Dialogue: 0,0:30:23.70,0:30:25.28,BottomCenter,,0,0,0,,爱之助 加油！
 Dialogue: 0,0:30:25.28,0:30:28.12,BottomCenter,,0,0,0,,我会为你加油的！
-Dialogue: 0,0:30:35.33,0:30:40.33,BottomCenter,,0,0,0,,请大家为这位勇敢的少年鼓掌。
-Dialogue: 0,0:30:57.11,0:31:02.01,BottomCenter,,0,0,0,,逃脱方法写在左侧箱壁上。
-Dialogue: 0,0:31:05.16,0:31:10.65,BottomCenter,,0,0,0,,顺便问一句，你还记得我吗？
-Dialogue: 0,0:31:15.15,0:31:17.98,BottomCenter,,0,0,0,,我们以前见过的。
-Dialogue: 0,0:32:17.61,0:32:29.28,BottomCenter,,0,0,0,,点燃引信后，炸药将在10秒后爆炸。绝不可能逃脱。
-Dialogue: 0,0:32:39.85,0:32:48.07,BottomCenter,,0,0,0,,8，7，6，5……
-Dialogue: 0,0:33:07.59,0:33:12.22,BottomCenter,,0,0,0,,看来我多放了5克炸药。
-Dialogue: 0,0:33:42.94,0:33:45.24,BottomCenter,,0,0,0,,加藤先生，我明白了。
+Dialogue: 0,0:30:35.33,0:30:40.33,BottomCenter,,0,0,0,,请大家为这位勇敢的少年鼓掌
+Dialogue: 0,0:30:57.11,0:31:02.01,BottomCenter,,0,0,0,,逃脱方法写在左侧箱壁上
+Dialogue: 0,0:31:05.16,0:31:10.65,BottomCenter,,0,0,0,,顺便问一句 你还记得我吗？
+Dialogue: 0,0:31:15.15,0:31:17.98,BottomCenter,,0,0,0,,我们以前见过的
+Dialogue: 0,0:32:17.61,0:32:29.28,BottomCenter,,0,0,0,,点燃引信后 炸药将在10秒后爆炸 绝不可能逃脱
+Dialogue: 0,0:32:39.85,0:32:48.07,BottomCenter,,0,0,0,,8 7 6 5……
+Dialogue: 0,0:33:07.59,0:33:12.22,BottomCenter,,0,0,0,,看来我多放了5克炸药
+Dialogue: 0,0:33:42.94,0:33:45.24,BottomCenter,,0,0,0,,加藤先生 我明白了
 Dialogue: 0,0:33:51.68,0:33:52.90,BottomCenter,,0,0,0,,爱之助！
 Dialogue: 0,0:33:52.90,0:33:55.09,BottomCenter,,0,0,0,,谷田部的尸体之前放在几号停尸柜？
-Dialogue: 0,0:33:55.09,0:33:57.57,BottomCenter,,0,0,0,,3号柜。
+Dialogue: 0,0:33:55.09,0:33:57.57,BottomCenter,,0,0,0,,3号柜
 Dialogue: 0,0:34:06.63,0:34:08.90,BottomCenter,,0,0,0,,什么？
 Dialogue: 0,0:34:13.10,0:34:15.27,BottomCenter,,0,0,0,,谷田部？！
-Dialogue: 0,0:34:16.28,0:34:20.14,BottomCenter,,0,0,0,,魔术里用的也是同样的机关。
-Dialogue: 0,0:34:21.06,0:34:23.37,BottomCenter,,0,0,0,,真不敢相信。
+Dialogue: 0,0:34:16.28,0:34:20.14,BottomCenter,,0,0,0,,魔术里用的也是同样的机关
+Dialogue: 0,0:34:21.06,0:34:23.37,BottomCenter,,0,0,0,,真不敢相信
 Dialogue: 0,0:34:40.96,0:34:43.14,BottomCenter,,0,0,0,,这不是谷田部……
 Dialogue: 0,0:34:43.14,0:34:44.93,BottomCenter,,0,0,0,,这是怎么回事？
 Dialogue: 0,0:34:44.93,0:34:47.45,BottomCenter,,0,0,0,,怎么会这样？
 Dialogue: 0,0:34:55.63,0:34:58.24,BottomCenter,,0,0,0,,怎么了吗？
-Dialogue: 0,0:35:22.05,0:35:25.91,BottomCenter,,0,0,0,,你想破头也没用的。
-Dialogue: 0,0:35:27.51,0:35:30.99,BottomCenter,,0,0,0,,喂，你没事吧？
-Dialogue: 0,0:35:30.99,0:35:33.25,BottomCenter,,0,0,0,,加藤先生。
-Dialogue: 0,0:35:35.19,0:35:39.10,BottomCenter,,0,0,0,,快叫福地警视来。
+Dialogue: 0,0:35:22.05,0:35:25.91,BottomCenter,,0,0,0,,你想破头也没用的
+Dialogue: 0,0:35:27.51,0:35:30.99,BottomCenter,,0,0,0,,喂 你没事吧？
+Dialogue: 0,0:35:30.99,0:35:33.25,BottomCenter,,0,0,0,,加藤先生
+Dialogue: 0,0:35:35.19,0:35:39.10,BottomCenter,,0,0,0,,快叫福地警视来
 Dialogue: 0,0:35:39.65,0:35:42.08,BottomCenter,,0,0,0,,又是你那能力吗？
-Dialogue: 0,0:35:42.08,0:35:47.46,BottomCenter,,0,0,0,,是的，我好像全弄明白了。
-Dialogue: 0,0:36:20.35,0:36:23.03,BottomCenter,,0,0,0,,谷田部洋二。
+Dialogue: 0,0:35:42.08,0:35:47.46,BottomCenter,,0,0,0,,是的 我好像全弄明白了
+Dialogue: 0,0:36:20.35,0:36:23.03,BottomCenter,,0,0,0,,谷田部洋二
 Dialogue: 0,0:36:30.13,0:36:37.48,BottomCenter,,0,0,0,,我只是按指示办事……
 Dialogue: 0,0:36:37.48,0:36:41.92,BottomCenter,,0,0,0,,难道你不想重新开始人生吗？
 Dialogue: 0,0:36:41.92,0:36:42.86,BottomCenter,,0,0,0,,重新开始？
-Dialogue: 0,0:36:42.86,0:36:47.77,BottomCenter,,0,0,0,,你的生意垮了。
-Dialogue: 0,0:36:50.30,0:36:54.50,BottomCenter,,0,0,0,,因为压力过大，你甚至对妻儿动了手。
-Dialogue: 0,0:36:55.29,0:36:58.53,BottomCenter,,0,0,0,,你的人生已经快完蛋了。
-Dialogue: 0,0:36:59.26,0:37:02.42,BottomCenter,,0,0,0,,我可以帮你。
-Dialogue: 0,0:37:02.42,0:37:05.93,BottomCenter,,0,0,0,,帮你重获新生。
+Dialogue: 0,0:36:42.86,0:36:47.77,BottomCenter,,0,0,0,,你的生意垮了
+Dialogue: 0,0:36:50.30,0:36:54.50,BottomCenter,,0,0,0,,因为压力过大 你甚至对妻儿动了手
+Dialogue: 0,0:36:55.29,0:36:58.53,BottomCenter,,0,0,0,,你的人生已经快完蛋了
+Dialogue: 0,0:36:59.26,0:37:02.42,BottomCenter,,0,0,0,,我可以帮你
+Dialogue: 0,0:37:02.42,0:37:05.93,BottomCenter,,0,0,0,,帮你重获新生
 Dialogue: 0,0:37:06.90,0:37:10.57,BottomCenter,,0,0,0,,那……要我做什么？
-Dialogue: 0,0:37:10.57,0:37:15.88,BottomCenter,,0,0,0,,去假装袭击一个女人。
+Dialogue: 0,0:37:10.57,0:37:15.88,BottomCenter,,0,0,0,,去假装袭击一个女人
 Dialogue: 0,0:37:16.79,0:37:20.98,BottomCenter,,0,0,0,,我没想到事情会变成这样……
 Dialogue: 0,0:37:23.73,0:37:25.63,BottomCenter,,0,0,0,,那具尸体是谁的？
 Dialogue: 0,0:37:25.63,0:37:27.76,BottomCenter,,0,0,0,,我真的不知道……
-Dialogue: 0,0:37:27.76,0:37:30.33,BottomCenter,,0,0,0,,我收到的命令只是去袭击狭山老师。
-Dialogue: 0,0:38:09.42,0:38:12.01,BottomCenter,,0,0,0,,喂。
+Dialogue: 0,0:37:27.76,0:37:30.33,BottomCenter,,0,0,0,,我收到的命令只是去袭击狭山老师
+Dialogue: 0,0:38:09.42,0:38:12.01,BottomCenter,,0,0,0,,喂
 Dialogue: 0,0:38:12.01,0:38:14.41,BottomCenter,,0,0,0,,看到塑料布了吗？
-Dialogue: 0,0:38:16.01,0:38:16.90,BottomCenter,,0,0,0,,看到了。
-Dialogue: 0,0:38:16.90,0:38:18.79,BottomCenter,,0,0,0,,掀开看看。
+Dialogue: 0,0:38:16.01,0:38:16.90,BottomCenter,,0,0,0,,看到了
+Dialogue: 0,0:38:16.90,0:38:18.79,BottomCenter,,0,0,0,,掀开看看
 Dialogue: 0,0:38:25.67,0:38:29.13,BottomCenter,,0,0,0,,搞什么鬼？！
 Dialogue: 0,0:38:38.88,0:38:40.19,BottomCenter,,0,0,0,,死人！
-Dialogue: 0,0:38:40.19,0:38:44.08,BottomCenter,,0,0,0,,把尸体埋了。
-Dialogue: 0,0:38:44.91,0:38:48.88,BottomCenter,,0,0,0,,等等，这不就成了共犯吗？
-Dialogue: 0,0:38:48.88,0:38:53.88,BottomCenter,,0,0,0,,要是不照做，我就告诉警察人是你杀的。
-Dialogue: 0,0:38:54.18,0:38:57.71,BottomCenter,,0,0,0,,现在去挖坑。
+Dialogue: 0,0:38:40.19,0:38:44.08,BottomCenter,,0,0,0,,把尸体埋了
+Dialogue: 0,0:38:44.91,0:38:48.88,BottomCenter,,0,0,0,,等等 这不就成了共犯吗？
+Dialogue: 0,0:38:48.88,0:38:53.88,BottomCenter,,0,0,0,,要是不照做 我就告诉警察人是你杀的
+Dialogue: 0,0:38:54.18,0:38:57.71,BottomCenter,,0,0,0,,现在去挖坑
 Dialogue: 0,0:38:57.71,0:39:00.97,BottomCenter,,0,0,0,,这样你就能重新开始人生了……
-Dialogue: 0,0:39:02.41,0:39:06.67,BottomCenter,,0,0,0,,我根本没想到会被卷进这种罪案里。
+Dialogue: 0,0:39:02.41,0:39:06.67,BottomCenter,,0,0,0,,我根本没想到会被卷进这种罪案里
 Dialogue: 0,0:39:15.17,0:39:17.37,BottomCenter,,0,0,0,,老公！
 Dialogue: 0,0:39:20.05,0:39:22.65,BottomCenter,,0,0,0,,你是为了给我们留下一笔钱吗？
 Dialogue: 0,0:39:22.65,0:39:26.36,BottomCenter,,0,0,0,,我难道求过你这样做吗？
 Dialogue: 0,0:39:26.36,0:39:29.20,BottomCenter,,0,0,0,,难道就为了这个……？
 Dialogue: 0,0:39:35.90,0:39:37.78,BottomCenter,,0,0,0,,对不起……
-Dialogue: 0,0:39:41.29,0:39:43.54,BottomCenter,,0,0,0,,走吧。
-Dialogue: 0,0:39:55.28,0:40:01.51,BottomCenter,,0,0,0,,如果当时马上解剖，就会发现那是另一具尸体。
-Dialogue: 0,0:40:01.51,0:40:07.24,BottomCenter,,0,0,0,,所以犯人才把它藏了起来……利用和魔术相同的机关。
-Dialogue: 0,0:40:12.71,0:40:17.50,BottomCenter,,0,0,0,,我说的对吧，向坂刑警？
+Dialogue: 0,0:39:41.29,0:39:43.54,BottomCenter,,0,0,0,,走吧
+Dialogue: 0,0:39:55.28,0:40:01.51,BottomCenter,,0,0,0,,如果当时马上解剖 就会发现那是另一具尸体
+Dialogue: 0,0:40:01.51,0:40:07.24,BottomCenter,,0,0,0,,所以犯人才把它藏了起来……利用和魔术相同的机关
+Dialogue: 0,0:40:12.71,0:40:17.50,BottomCenter,,0,0,0,,我说的对吧 向坂刑警？
 Dialogue: 0,0:40:17.50,0:40:20.73,BottomCenter,,0,0,0,,什么？为什么问我？
-Dialogue: 0,0:40:20.73,0:40:24.59,BottomCenter,,0,0,0,,我只是觉得，向坂刑警肯定早就看穿了。
-Dialogue: 0,0:40:24.59,0:40:29.23,BottomCenter,,0,0,0,,其实没有，反倒是你的推理让我吃了一惊。
-Dialogue: 0,0:40:29.23,0:40:30.75,BottomCenter,,0,0,0,,真的吗，加藤先生？
-Dialogue: 0,0:40:30.75,0:40:33.64,BottomCenter,,0,0,0,,是啊，你真厉害！
-Dialogue: 0,0:40:39.01,0:40:43.88,BottomCenter,,0,0,0,,爱之助，我想和你谈谈。
+Dialogue: 0,0:40:20.73,0:40:24.59,BottomCenter,,0,0,0,,我只是觉得 向坂刑警肯定早就看穿了
+Dialogue: 0,0:40:24.59,0:40:29.23,BottomCenter,,0,0,0,,其实没有 反倒是你的推理让我吃了一惊
+Dialogue: 0,0:40:29.23,0:40:30.75,BottomCenter,,0,0,0,,真的吗 加藤先生？
+Dialogue: 0,0:40:30.75,0:40:33.64,BottomCenter,,0,0,0,,是啊 你真厉害！
+Dialogue: 0,0:40:39.01,0:40:43.88,BottomCenter,,0,0,0,,爱之助 我想和你谈谈
 Dialogue: 0,0:40:45.48,0:40:48.47,BottomCenter,,0,0,0,,能跟我们回一趟警署吗？
 Dialogue: 0,0:40:58.44,0:41:01.78,BottomCenter,,0,0,0,,爱之助！爱之助！
-Dialogue: 0,0:41:03.73,0:41:08.68,BottomCenter,,0,0,0,,我听说啦，是你证明了我的清白！
-Dialogue: 0,0:41:10.01,0:41:12.48,BottomCenter,,0,0,0,,没事了就好。
-Dialogue: 0,0:41:12.48,0:41:14.97,BottomCenter,,0,0,0,,太谢谢你了。
+Dialogue: 0,0:41:03.73,0:41:08.68,BottomCenter,,0,0,0,,我听说啦 是你证明了我的清白！
+Dialogue: 0,0:41:10.01,0:41:12.48,BottomCenter,,0,0,0,,没事了就好
+Dialogue: 0,0:41:12.48,0:41:14.97,BottomCenter,,0,0,0,,太谢谢你了
 Dialogue: 0,0:41:15.38,0:41:19.54,BottomCenter,,0,0,0,,我之前什么都想不起来……
-Dialogue: 0,0:41:21.89,0:41:24.68,BottomCenter,,0,0,0,,好啦，我们回家吧？
-Dialogue: 0,0:41:27.92,0:41:30.13,BottomCenter,,0,0,0,,对不起，老师。
-Dialogue: 0,0:41:32.00,0:41:36.39,BottomCenter,,0,0,0,,我有点事要和福地警视谈谈。
-Dialogue: 0,0:41:45.44,0:41:52.67,BottomCenter,,0,0,0,,我认为谷田部和尸体失踪案没有关系。
+Dialogue: 0,0:41:21.89,0:41:24.68,BottomCenter,,0,0,0,,好啦 我们回家吧？
+Dialogue: 0,0:41:27.92,0:41:30.13,BottomCenter,,0,0,0,,对不起 老师
+Dialogue: 0,0:41:32.00,0:41:36.39,BottomCenter,,0,0,0,,我有点事要和福地警视谈谈
+Dialogue: 0,0:41:45.44,0:41:52.67,BottomCenter,,0,0,0,,我认为谷田部和尸体失踪案没有关系
 Dialogue: 0,0:41:54.84,0:41:58.69,BottomCenter,,0,0,0,,这一切说不定全是为了下一桩罪案准备的
 Dialogue: 0,0:41:59.36,0:42:02.18,BottomCenter,,0,0,0,,你怎么会知道这些？
 Dialogue: 0,0:42:05.06,0:42:07.64,BottomCenter,,0,0,0,,因为……
-Dialogue: 0,0:42:08.09,0:42:17.21,BottomCenter,,0,0,0,,我一直在注意你，你总是对案件了如指掌
+Dialogue: 0,0:42:08.09,0:42:17.21,BottomCenter,,0,0,0,,我一直在注意你 你总是对案件了如指掌
 Dialogue: 0,0:42:17.21,0:42:22.65,BottomCenter,,0,0,0,,但我并不觉得你和罪犯是一伙的
-Dialogue: 0,0:42:22.65,0:42:29.59,BottomCenter,,0,0,0,,甚至恰恰相反，你总是在想办法阻止犯罪
-Dialogue: 0,0:42:33.90,0:42:42.02,BottomCenter,,0,0,0,,有个叫黑晶晶的在押犯，跟我说了一件很有意思的事
+Dialogue: 0,0:42:22.65,0:42:29.59,BottomCenter,,0,0,0,,甚至恰恰相反 你总是在想办法阻止犯罪
+Dialogue: 0,0:42:33.90,0:42:42.02,BottomCenter,,0,0,0,,有个叫黑晶晶的在押犯 跟我说了一件很有意思的事
 Dialogue: 0,0:42:42.80,0:42:44.59,BottomCenter,,0,0,0,,什么事？
 Dialogue: 0,0:42:45.12,0:42:50.58,BottomCenter,,0,0,0,,她说你有一个在爆炸事故中死去的哥哥
-Dialogue: 0,0:42:52.28,0:42:53.82,BottomCenter,,0,0,0,,他跟现在发生的这些事，是不是有什么关联？
-Dialogue: 0,0:42:55.15,0:43:04.19,BottomCenter,,0,0,0,,在尸体身份被查清前，执行B计划
+Dialogue: 0,0:42:52.28,0:42:53.82,BottomCenter,,0,0,0,,他跟现在发生的这些事 是不是有什么关联？
+Dialogue: 0,0:42:55.15,0:43:04.19,BottomCenter,,0,0,0,,在尸体身份被查清前 执行B计划
 Dialogue: 0,0:43:04.19,0:43:05.32,BottomCenter,,0,0,0,,给他打电话
-Dialogue: 0,0:43:06.44,0:43:07.30,BottomCenter,,0,0,0,,好。
-Dialogue: 0,0:43:10.78,0:43:18.30,BottomCenter,,0,0,0,,突然打扰很不好意思，能请你帮个忙吗？
-Dialogue: 0,0:43:19.55,0:43:25.71,BottomCenter,,0,0,0,,明白了，我这就准备
+Dialogue: 0,0:43:06.44,0:43:07.30,BottomCenter,,0,0,0,,好
+Dialogue: 0,0:43:10.78,0:43:18.30,BottomCenter,,0,0,0,,突然打扰很不好意思 能请你帮个忙吗？
+Dialogue: 0,0:43:19.55,0:43:25.71,BottomCenter,,0,0,0,,明白了 我这就准备
 Dialogue: 0,0:43:25.71,0:43:29.17,BottomCenter,,0,0,0,,准备什么？
 Dialogue: 0,0:43:29.17,0:43:32.71,BottomCenter,,0,0,0,,刚好接了个活儿
 Dialogue: 0,0:43:32.71,0:43:33.55,BottomCenter,,0,0,0,,接活儿？
 Dialogue: 0,0:43:35.57,0:43:39.42,BottomCenter,,0,0,0,,好可疑！
-Dialogue: 0,0:43:39.42,0:43:41.63,BottomCenter,,0,0,0,,咦，换新洗发水了？
-Dialogue: 0,0:43:41.63,0:43:41.78,BottomCenter,,0,0,0,,嗯，那我走了
+Dialogue: 0,0:43:39.42,0:43:41.63,BottomCenter,,0,0,0,,咦 换新洗发水了？
+Dialogue: 0,0:43:41.63,0:43:41.78,BottomCenter,,0,0,0,,嗯 那我走了
 Dialogue: 0,0:43:41.78,0:43:41.87,BottomCenter,,0,0,0,,路上小心
 Dialogue: 0,0:43:42.82,0:43:55.50,BottomCenter,,0,0,0,,告诉我吧
 Dialogue: 0,0:43:55.50,0:43:59.41,BottomCenter,,0,0,0,,怎么办？要不要说？
 Dialogue: 0,0:43:59.73,0:44:03.80,BottomCenter,,0,0,0,,拜托了
-Dialogue: 0,0:44:03.80,0:44:08.49,BottomCenter,,0,0,0,,可是哥哥说过，如果我告诉别人，他就会杀了那个人
+Dialogue: 0,0:44:03.80,0:44:08.49,BottomCenter,,0,0,0,,可是哥哥说过 如果我告诉别人 他就会杀了那个人
 Dialogue: 0,0:44:09.88,0:44:11.94,BottomCenter,,0,0,0,,我不想让福地先生丧命
 Dialogue: 0,0:44:12.24,0:44:13.45,BottomCenter,,0,0,0,,爱之助！
-Dialogue: 0,0:44:13.86,0:44:22.54,BottomCenter,,0,0,0,,但光靠我一个人，根本阻止不了哥哥
-Dialogue: 0,0:44:24.46,0:44:32.59,BottomCenter,,0,0,0,,如果能得到福地先生代表的警方的帮助，或许……
+Dialogue: 0,0:44:13.86,0:44:22.54,BottomCenter,,0,0,0,,但光靠我一个人 根本阻止不了哥哥
+Dialogue: 0,0:44:24.46,0:44:32.59,BottomCenter,,0,0,0,,如果能得到福地先生代表的警方的帮助 或许……
 Dialogue: 0,0:44:43.03,0:44:50.58,SongTop,,0,0,0,,即使眼中映出的世界满是悲伤
 Dialogue: 0,0:44:50.88,0:45:01.05,SongTop,,0,0,0,,我们的青春物语也绝不再逃避
 Dialogue: 0,0:44:55.40,0:45:02.45,BottomCenter,,0,0,0,,我哥哥……我哥哥他……
